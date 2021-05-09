@@ -16,3 +16,9 @@ ChatBox based on Java Swing<br>
 <p>Getting remote machine IP: <br>
 Run "cmd" if on windows and type "ipconfig". Scroll down and find IPv4 address. Copy and paste there in client.
 </p>
+
+## Sample screenshots
+
+![Image 1](https://raw.githubusercontent.com/HariKishorePec/Client-Server-ChatBox/master/Screenshot/1.png)
+
+![Image 2](https://raw.githubusercontent.com/HariKishorePec/Client-Server-ChatBox/master/Screenshot/2.png)
